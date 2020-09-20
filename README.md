@@ -1,4 +1,5 @@
 # Sillymation
+
 ### A Rube Goldberg machine in the Terminal
 
 ## Inspiration
@@ -12,3 +13,6 @@ The Rube Goldberg machine is a machine that does a simple task, but in an unnece
 ## How I built it
 
 Grabbing inspiration from VT100 terminal animations back in the 1970s, I took a look at the source code of them and found simple instructions for the terminal to move the cursor from one place to another. This was fascinating stuff, there were so many modes and things one could do in the terminal to display graphics and etc. Every ascii graphic you see in the demo is handmade and appears as seen in the source code. 
+
+
+![](title_of_hack_cover.png)
